@@ -34,11 +34,11 @@ Step 2: Read this post and watch this video to start building an understanding o
    * [Pairin Qualities Overview](https://docs.google.com/document/d/1LIR7gITKqOX2ewcOqp_KTkj3Phqjk4ZKoOrpUdidvwM/edit?usp=sharing) (2.5 minute read)
       
 Step 3: Please respond to the following questions in a reflection (4-6 sentences):
-   * What is your greatest strength and how do you know?
-   * How do you work best?
-   * What is your greatest area of improvement?
-   * How do you hope to maximize your strengths for your new career in software development?
-   * How might knowing about your strengths and working preferences benefit you as a software developer? 
+   * What is your greatest strength and how do you know? Being able to acheive my goals by pushing through no matter how difficult. 
+   * How do you work best? With focus and limited interuptions.
+   * What is your greatest area of improvement? I should plan further with activies as to minimize going down incorrect paths.
+   * How do you hope to maximize your strengths for your new career in software development? Presistence and self-examintion on how to continuously improve.
+   * How might knowing about your strengths and working preferences benefit you as a software developer? Identifying weakensses is hugely important to improving oneselef.
  
 **Capstone submission directions:**
 In a gist, please:
